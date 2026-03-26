@@ -1,0 +1,6 @@
+Online Examination & Proctoring System
+
+Current version:
+- Java Swing based UI
+- File handling for users, questions, and results
+- File handling for proctoring activity log

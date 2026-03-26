@@ -1,0 +1,8 @@
+
+student1 | 2026-03-24 21:38:51 | Window focus lost | Violation count: 1
+student1 | 2026-03-24 21:39:47 | Window focus lost | Violation count: 1
+student1 | 2026-03-24 22:21:03 | Window focus lost | Violation count: 1
+student1 | 2026-03-24 22:21:10 | Window focus lost | Violation count: 2
+student1 | 2026-03-24 22:21:15 | Window focus lost | Violation count: 3
+student1 | 2026-03-24 22:21:19 | Window focus lost | Violation count: 4
+student1 | 2026-03-24 22:21:28 | Window focus lost | Violation count: 5

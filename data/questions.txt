@@ -1,0 +1,7 @@
+
+India's Cleanest City|Delhi|Mumbai|Indore|Pune|C
+hich of the following is not a Java keyword?|class|static|void|include|D
+Which principle of OOP allows method overriding?|Encapsulation|Inheritance|Abstraction|Polymorphism|D
+Which package is used for JDBC in Java?|java.io|java.sql|java.util|java.net|B
+Which SQL command is used to retrieve data?|INSERT|DELETE|SELECT|UPDATE|C
+Which method is used to start a thread in Java?|run()|execute()|start()|init()|C
