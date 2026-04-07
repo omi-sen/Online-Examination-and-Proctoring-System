@@ -68,7 +68,7 @@ javac -d bin src/app/Main.java src/gui/*.java src/model/*.java src/service/*.jav
 java -cp bin app.Main
 ```
 
-> Note: Ensure the `data/` directory is present and contains the default files before starting the application.
+> Note: Ensure the `data/` directory is present and contains the default files before starting the application.>
 <br><br>
 Name: Shourya Rawat
 <br>
