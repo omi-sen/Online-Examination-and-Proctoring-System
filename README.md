@@ -1,7 +1,5 @@
 # Online Examination & Proctoring System
-Name: Shourya Rawat
-repository link : 
-
+ 
 A Java desktop application built with Swing to simulate an online exam environment with basic proctoring and persistent file-based storage.
 
 ## Overview
@@ -71,4 +69,7 @@ java -cp bin app.Main
 ```
 
 > Note: Ensure the `data/` directory is present and contains the default files before starting the application.
-
+<br><br>
+Name: Shourya Rawat
+<br>
+repository link : https://github.com/omi-sen/Online-Examination-and-Proctoring-System.git
